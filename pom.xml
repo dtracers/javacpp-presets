@@ -37,6 +37,7 @@
   </developers>
 
   <modules>
+      <!--
     <module>opencv</module>
     <module>ffmpeg</module>
     <module>flycapture</module>
@@ -54,6 +55,7 @@
     <module>caffe</module>
     <module>cuda</module>
     <module>mxnet</module>
+    -->
     <module>tensorflow</module>
   </modules>
 
